@@ -1,6 +1,6 @@
 👋 Hi, I’m Nico (he/him)
 
-Lead dev @cytoo 
+Lead dev @cytoo-data-science
 
 I like 🐍 and 🦀
 
